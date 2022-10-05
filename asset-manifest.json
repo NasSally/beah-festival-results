@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/beah-festival-test/static/css/main.4d94c14f.css",
-    "main.js": "/beah-festival-test/static/js/main.93127665.js",
+    "main.js": "/beah-festival-test/static/js/main.a60528fe.js",
     "index.html": "/beah-festival-test/index.html",
     "main.4d94c14f.css.map": "/beah-festival-test/static/css/main.4d94c14f.css.map",
-    "main.93127665.js.map": "/beah-festival-test/static/js/main.93127665.js.map"
+    "main.a60528fe.js.map": "/beah-festival-test/static/js/main.a60528fe.js.map"
   },
   "entrypoints": [
     "static/css/main.4d94c14f.css",
-    "static/js/main.93127665.js"
+    "static/js/main.a60528fe.js"
   ]
 }
